@@ -1,0 +1,22 @@
+{
+    "check_list": [
+      {
+        "name": "Razer Viper V3 Pro",
+        "url": "https://www.amazon.co.jp/%E3%80%908000Hz%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AB%E5%90%8C%E6%A2%B1%E3%83%BB%E8%B6%85%E8%BB%BD%E9%87%8F55g%E3%80%91Razer-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9-35K%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-35000DPI-%E3%82%AA%E3%83%97%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/dp/B0D1X5B9PC/ref=sr_1_7?crid=15OWW2Y4K06HG&dib=eyJ2IjoiMSJ9.blqcSeKxWl3Us-BTQMTn3uST8BUEQIUm5pE2_RRvJXsd3DZExEhZyxkmymxL-mfVgTQBFsodZiTfH-sR_9fOip-WXIlIZmXe-xJZvPfIbGk7_5yaszzM4YoHIblhTltB-GogkC9Av3ewMJUAoE7R5sNTJrt98N_HlJvJsucQunKi3280Yc_vXVCd5zxiGym8mcHmy6GZrG5WzCOY7j7S9hFfqMADJ6v4dDrlHSrw_-cVK2mL19xMF0x-NqAVjt8CykQ0f0_5oNvf4ki5dcXDf_G-R2rZqG6XS18mVZgNkbE.onOhjDA-bDuuDJWln9hdxZr2iPMXnT1IM3qgFO-CpHc&dib_tag=se&keywords=razer%2Bviper%2Bv3%2Bpro&qid=1769671239&sprefix=Razer%2Caps%2C222&sr=8-7&ufe=app_do%3Aamzn1.fos.d8e7ee72-073f-4b97-8ec0-59c18d6dfebe&th=1", 
+        "check_type": "PRICE",
+        "target_value": 30000
+      },
+      {
+        "name": "いろはす",
+        "url": "https://www.amazon.co.jp/I-LOHAS-%E3%81%84%E3%83%BB%E3%82%8D%E3%83%BB%E3%81%AF%E3%83%BB%E3%81%99-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%81%84%E3%83%BB%E3%82%8D%E3%83%BB%E3%81%AF%E3%83%BB%E3%81%99%E5%A4%A9%E7%84%B6%E6%B0%B4%E3%83%A9%E3%83%99%E3%83%AB%E3%83%AC%E3%82%B9/dp/B084T9C6WD?pd_rd_w=HArM3&content-id=amzn1.sym.9aa34b3e-8024-4627-9cb2-cef001ad6a23&pf_rd_p=9aa34b3e-8024-4627-9cb2-cef001ad6a23&pf_rd_r=N55K4VMPGTJNN87A83BW&pd_rd_wg=ThKYx&pd_rd_r=e9930d0c-ff66-40c1-b715-ba7b6c15cbbd&pd_rd_i=B084T9C6WD&ref_=pd_hp_d_btf_unk_B084T9C6WD",
+        "check_type": "STOCK",
+        "target_value": "在庫"
+      },
+      {
+        "name": "Nintendo Switch 2",
+        "url": "https://item.rakuten.co.jp/uriurishop/4902370553024/?iasid=07rpp_10095___33-mkz43e35-4t-79404677-8163-4d1a-b49b-9bc1c2973d6b", 
+        "check_type": "STOCK",
+        "target_value": "かご"
+      }
+    ]
+}
